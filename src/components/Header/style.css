@@ -1,0 +1,17 @@
+@font-face{
+    font-family: 'Simpsonfont';
+    src: local('Simpsonfont'),local('Simpsons Font'),url('/assets/font/Simpsonfont.ttf') format('truetype');
+}
+
+.theSimpsons {
+    font-family: 'Simpsonfont';
+    color: #FFD90F
+}
+
+.jumbotron {
+    background-color: #ffffff00;
+}
+
+h1 {
+    font-size: 75px;
+}
